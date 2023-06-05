@@ -1,8 +1,8 @@
 # github-copilot
 
-To run the file 
+# To run the file 
 python weather.py
 
-To install requirements
+# To install requirements
 pip install -r requirements.txt
 
